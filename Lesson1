@@ -1,0 +1,9 @@
+import numpy as nm
+
+List1 = [1,2,3,4]
+List2 = [1,2,3,4]
+
+ListA = nm.array(List1)
+ListB = nm.array(List2)
+
+print(ListA/ListB)
